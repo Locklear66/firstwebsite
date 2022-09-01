@@ -220,25 +220,3 @@ footer{
     text-align: center;
     font-size: 60px;
    }
-   .sub-header{
-    text-align: center;
-    font-size: 28px;
-
-   }
-   .section__description{
-    display: flex;
-    flex-direction: column;
-   }
-   
-   .footer__logo{
-    width: 300px;
-    padding: 20px;
-   }
-   1
-     
-
-
-
-
-
-}
